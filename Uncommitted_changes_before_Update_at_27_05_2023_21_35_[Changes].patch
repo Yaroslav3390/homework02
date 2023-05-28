@@ -1,0 +1,15 @@
+Subject: [PATCH] Uncommitted changes before Update at 27.05.2023 21:35 [Changes]
+---
+Index: src/QA.java
+===================================================================
+diff --git a/src/QA.java b/src/FavoriteNumber.java
+rename from src/QA.java
+rename to src/FavoriteNumber.java
+--- a/src/QA.java	
++++ b/src/FavoriteNumber.java	
+@@ -1,4 +1,4 @@
+-public class QA {
++public class FavoriteNumber {
+     public static void main(String[] args) {
+         System.out.println(8);
+     }
